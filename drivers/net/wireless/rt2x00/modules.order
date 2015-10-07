@@ -1,0 +1,6 @@
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rt2x00/rt2x00lib.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rt2x00/rt2x00usb.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rt2x00/rt2800lib.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rt2x00/rt2500usb.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rt2x00/rt73usb.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rt2x00/rt2800usb.ko

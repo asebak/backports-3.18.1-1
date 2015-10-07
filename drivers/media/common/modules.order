@@ -1,0 +1,6 @@
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/media/common/b2c2/b2c2-flexcop.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/media/common/siano/smsmdtv.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/media/common/siano/smsdvb.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/media/common/cx2341x.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/media/common/tveeprom.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/media/common/cypress_firmware.ko

@@ -1,0 +1,2 @@
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/st21nfca/st21nfca_hci.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/st21nfca/st21nfca_i2c.ko

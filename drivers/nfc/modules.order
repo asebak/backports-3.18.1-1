@@ -1,0 +1,15 @@
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/pn544/pn544.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/pn544/pn544_i2c.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/microread/microread.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/microread/microread_i2c.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/pn533.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/nfcwilink.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/nfcsim.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/port100.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/nfcmrvl/nfcmrvl.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/nfcmrvl/nfcmrvl_usb.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/trf7970a.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/st21nfca/st21nfca_hci.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/st21nfca/st21nfca_i2c.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/st21nfcb/st21nfcb_nci.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/nfc/st21nfcb/st21nfcb_i2c.ko

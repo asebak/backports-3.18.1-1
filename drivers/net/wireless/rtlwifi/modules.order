@@ -1,0 +1,4 @@
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rtlwifi/rtlwifi.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rtlwifi/rtl_usb.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rtlwifi/rtl8192c/rtl8192c-common.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/drivers/net/wireless/rtlwifi/rtl8192cu/rtl8192cu.ko

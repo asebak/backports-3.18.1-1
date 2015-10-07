@@ -1,0 +1,4 @@
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/net/nfc/nfc.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/net/nfc/nci/nci.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/net/nfc/hci/hci.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/net/nfc/nfc_digital.ko

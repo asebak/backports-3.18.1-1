@@ -1,0 +1,4 @@
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/net/bluetooth/bluetooth.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/net/bluetooth/rfcomm/rfcomm.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/net/bluetooth/bnep/bnep.ko
+kernel//home/keithconger/Projects/bbbandroid-bluez/backports-3.18.1-1/net/bluetooth/hidp/hidp.ko
